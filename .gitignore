@@ -1,3 +1,5 @@
 var/
 var/*
 *.lock
+vendor/
+vendor/*
